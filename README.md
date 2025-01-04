@@ -13,26 +13,3 @@ As a second-year computer science student, I have a strong passion for creating 
 
 I strive to merge creativity with technical expertise to achieve exceptional results.
 
----
-
-## Programming Background
-
-I'm proficient in the following programming languages:
-- **C++**
-- **Python**
-- **Java**
-- **C**
-
-My programming approach focuses on clarity, efficiency, and precision, ensuring each solution aligns with best practices.
-
----
-
-## Skills
-
-| **Programming Language** | **Proficiency** |
-|---------------------------|------------------|
-| C++                      | Experienced      |
-| Python                   | Expert           |
-| Java                     | Advanced         |
-| C                        | Beginner         |
-
