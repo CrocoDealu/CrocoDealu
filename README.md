@@ -7,7 +7,7 @@ Hi there! My name is **David Mitrea**, and I'm a student at **Babes-Bolyai Unive
 ## About Me
 
 As a second-year computer science student, I have a strong passion for creating innovative and impactful applications. My interests span across:
-- **Machine learning**
+- **Software architecture**
 - **Desktop application development**
 - **Web development**
 
